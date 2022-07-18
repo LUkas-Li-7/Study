@@ -1,0 +1,7 @@
+所需环境：
+       go version go1.18.1
+编译器采用：Goland
+需要配置环境变量：GOPATH
+              GOROOT
+具体流程：https://my.oschina.net/u/2364788/blog/3095404
+之后即可运行
